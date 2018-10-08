@@ -51,12 +51,16 @@ section {
     text-align: center;
 }
 
-.glow {
-    margin-top: 20px;
-    margin-bottom: 20px;
+.intro {
+    font-family: 'Charmonman', cursive;
+}
+
+.brand {
+    font-family: 'Courgette', cursive;
 }
 
 .hero-text {
+    font-family: 'Courgette', cursive;
     position: absolute;
     top: 50%;
     left: 50%;
